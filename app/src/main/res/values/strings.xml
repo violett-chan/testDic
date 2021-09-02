@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">testDic</string>
+    <string name="search">Поиск</string>
+    <string name="meanings">Значения:</string>
+</resources>
